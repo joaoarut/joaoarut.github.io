@@ -280,7 +280,7 @@ function Navbar() {
     <div className="fixed top-0 left-0 right-0 z-50">
       <div className="mx-auto max-w-6xl px-4 py-3">
         <div className="flex items-center gap-3 rounded-2xl border border-white/10 bg-black/40 backdrop-blur supports-[backdrop-filter]:bg-black/30 px-4 py-3">
-          <a href="#" className="font-semibold tracking-tight">JVLArut</a>
+          <a href="#" className="font-semibold tracking-tight">J. Arut</a>
           <div className="ml-auto hidden md:flex items-center gap-2">
             {links.map((l) => (
               <a key={l.href} href={l.href} className="px-3 py-1.5 text-sm rounded-lg hover:bg-white/10">
