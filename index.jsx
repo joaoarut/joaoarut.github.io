@@ -233,9 +233,9 @@ const data = {
 ],
 
   links: {
-    github: "https://github.com/",
-    linkedin: "https://www.linkedin.com/",
-    email: "mailto:joao@example.com",
+    github: "https://github.com/joaoarut",
+    linkedin: "https://www.linkedin.com/in/joaoarut",
+    email: "mailto:joaoarut@protonmail.com",
   },
   skills: {
     redteam: ["Pentest", "Red Team", "Cobalt Strike", "Brute Ratel", "Metasploit", "Ettercap", "BeEF"],
