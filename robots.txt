@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://joaoarut.github.io/sitemap.xml
+
+# Disallow sensitive paths (if any)
+Disallow: /assets/
+Disallow: /node_modules/
+
+# Crawl-delay for better server performance
+Crawl-delay: 1
